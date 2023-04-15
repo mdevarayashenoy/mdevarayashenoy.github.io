@@ -1,6 +1,6 @@
 # Project information
 site_name: PKI
-site_url: https://mdeverayashenoy.github.io/
+site_url: https://mdevarayashenoy.github.io
 site_author: "Manojkumar Devaraya Shenoy"
 site_description: "Hands on for MkDocs + GitHub pages"
 
@@ -8,3 +8,6 @@ site_description: "Hands on for MkDocs + GitHub pages"
 nav:
     - Home: index.md
     - About: about.md
+    
+# Theming
+theme: readthedocs
