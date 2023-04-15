@@ -3,11 +3,12 @@ site_name: PKI
 site_url: https://mdevarayashenoy.github.io
 site_author: "Manojkumar Devaraya Shenoy"
 site_description: "Hands on for MkDocs + GitHub pages"
+site_dir: ..\mdevarayashenoy.github.io.docs\docs
 
 # Navigation
 nav:
     - Home: index.md
     - About: about.md
-    
+
 # Theming
 theme: readthedocs
