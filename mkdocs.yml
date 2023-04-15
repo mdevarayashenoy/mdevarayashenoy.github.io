@@ -5,10 +5,20 @@ site_author: "Manojkumar Devaraya Shenoy"
 site_description: "Hands on for MkDocs + GitHub pages"
 site_dir: ..\mdevarayashenoy.github.io.docs\docs
 
+# Repository
+repo_name: mdevarayashenoy/mdevarayashenoy.github.io
+repo_url: https://github.com/mdevarayashenoy/mdevarayashenoy.github.io
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: "Copyright &copy; 2022 - Manojkumar Devaraya Shenoy"
+
 # Navigation
 nav:
     - Home: index.md
     - About: about.md
 
-# Theming
-theme: readthedocs
+# Configuration
+theme:
+  # https://squidfunk.github.io/mkdocs-material/
+  name: readthedocs
